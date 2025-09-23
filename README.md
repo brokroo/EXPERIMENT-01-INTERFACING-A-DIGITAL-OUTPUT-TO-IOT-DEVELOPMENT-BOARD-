@@ -97,7 +97,7 @@ while (1)
 
 ## OUTPUT  :
  
-<img width="1541" height="873" alt="image" src="https://github.com/user-attachments/assets/0d1b086e-0db5-47cc-9dd8-7b03c5735ed7" />
+<img width="1536" height="809" alt="image" src="https://github.com/user-attachments/assets/937faa42-6abc-4a33-948f-b2b482de7ca3" />
 
  
 ## Result :
